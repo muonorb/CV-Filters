@@ -1,12 +1,4 @@
-# CS 5330 Project 1: Video Special Effects
-
-Akashdeep Gangatkar Madhusudhan
-
-Time Travel Days: 2 Days
-
-Extensions: 
-- Canny filter and canny with no blur.
-- Stacking multiple or same filters on the same frame.
+# Video Special Effects
 
 ## Requirements
 - C++17 compiler (tested with Apple clang on macOS)
